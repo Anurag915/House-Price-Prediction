@@ -33,5 +33,7 @@ Usage
 To run the project locally:
 
 git clone https://github.com/yourusername/house-price-prediction.git
+
 cd house-price-prediction
+
 pip install -r requirements.txt
